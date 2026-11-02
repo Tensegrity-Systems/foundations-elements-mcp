@@ -1,0 +1,14 @@
+{
+  "name": "foundations-elements",
+  "version": "1.0.0",
+  "description": "UI encyclopedia for agents — search Foundations Elements and fetch component specs over MCP.",
+  "author": {
+    "name": "Tensegrity",
+    "email": "support@tensegrity.company"
+  },
+  "homepage": "https://tensegrity.company/elements",
+  "repository": "https://github.com/Tensegrity-Systems/foundations-elements-mcp",
+  "license": "MIT",
+  "keywords": ["mcp", "elements", "design-system", "ui", "foundations", "tensegrity"],
+  "logo": "assets/logo.svg"
+}
