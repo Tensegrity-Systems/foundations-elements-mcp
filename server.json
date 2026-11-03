@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "works.tensegrity/foundations-elements",
   "title": "Foundations Elements",
-  "description": "UI encyclopedia for agents. Search the catalog and fetch structured component specs over MCP with a Foundations account (OAuth).",
+  "description": "UI encyclopedia for agents — search Elements and fetch component specs over MCP (OAuth).",
   "version": "1.0.0",
   "repository": {
     "url": "https://github.com/Tensegrity-Systems/foundations-elements-mcp",
